@@ -1,5 +1,5 @@
 # Site settings
-title:Voyager Stake Pool
+title: Voyager Stake Pool
 email:
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
