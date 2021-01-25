@@ -1,0 +1,17 @@
+{
+    "info": {
+        "social": {
+            "telegram_handle": "VoyagerFromEarth"
+        },
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/voyagerstakepool/Voyager/master/img/VYGR.jpg",
+        "url_png_logo": "https://raw.githubusercontent.com/voyagerstakepool/Voyager/master/img/LOGO.jpg",
+        "location": "Earth",
+        "about": {
+            "me": "I am the Stake Pool Operator, aka the captain of this fine ship called Voyager. I'll be your guide through the epochs, and I'll make sure you get to destination, safely and with your well deserved rewards.",
+            "server": "Pretty good, judging by this Galaxy's standards."
+        }
+    },
+    "my-pool-ids": {
+        "0": "ef603340ac08cbe1cbe003821a2272e15612b50b86c0066e043dc64e"
+    }
+}
