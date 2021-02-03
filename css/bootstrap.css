@@ -1141,6 +1141,9 @@ hr {
   margin-bottom: 20px;
   border: 0;
   border-top: 1px solid #eee;
+  border-radius: 20px!important;
+  border-width: 10px!important;
+  max-width: 70px!important;
 }
 .sr-only {
   position: absolute;
