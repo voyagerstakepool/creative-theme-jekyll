@@ -58,9 +58,11 @@
 @mixin sans-serif-font()
 {
 	font-family: 'VT323', 'Helvetica Neue', Arial, sans-serif;
+	font-size: 24px;
 }
 
 @mixin serif-font()
 {
 	font-family: 'VT323', 'Helvetica Neue', Arial, sans-serif;
+	font-size: 28px;
 }
