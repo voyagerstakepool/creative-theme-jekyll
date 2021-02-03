@@ -30,8 +30,8 @@
     // Fit Text Plugin for Main Header
     $("h1").fitText(
         1.2, {
-            minFontSize: '55px',
-            maxFontSize: '95px'
+            minFontSize: '45px',
+            maxFontSize: '85px'
         }
     );
 
