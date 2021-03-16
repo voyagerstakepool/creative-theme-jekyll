@@ -7,8 +7,7 @@
         "url_png_logo": "https://raw.githubusercontent.com/voyagerstakepool/Voyager/master/img/LOGO.jpg",
         "location": "Earth",
         "about": {
-            "me": "I am the Stake Pool Operator, aka the captain of this fine ship called Voyager. I'll be your guide through the epochs, and I'll make sure you get to destination, safely and with your well deserved rewards.",
-            "server": "Pretty good, judging by this Galaxy's standards."
+            "me": "I'm Paul, from Amsterdam and I am the Stake Pool Operator. I'll be your guide through the epochs, and I'll make sure you get to destination, safely and with your well deserved rewards.",
         }
     },
     "my-pool-ids": {
